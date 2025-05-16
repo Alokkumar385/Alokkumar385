@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://media.gifdb.com/throwing-computer-498-x-372-gif-3l9y3dmxsty367rs.gif">
 
-<p align="left"> <img src="![image](https://github.com/user-attachments/assets/f53e5373-8e6c-4c94-9176-0d6790ed8d16)" alt="alokkumar385" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="alokkumar385" /> </p>
 
 
 - 📫 How to reach me *alok83436@gmail.com*
